@@ -1,73 +1,73 @@
-# Welcome to your Lovable project
+# 🌿 Holy Fruit — Experiência Digital e Espiritual ✨
 
-## Project info
+O **Holy Fruit** é um projeto conceitual de experiência phygital (físico + digital) que explora como tecnologia, design e bem-estar podem transformar um simples consumo em um momento de reflexão e presença.
 
-**URL**: https://lovable.dev/projects/4c290d58-de2a-4f00-9c10-9349884f87bc
+---
 
-## How can I edit this code?
+## ✨ Propósito
 
-There are several ways of editing your application.
+> **“Abra, beba e acredite.”**
 
-**Use Lovable**
+A proposta do projeto é transformar um ato cotidiano em uma experiência significativa, incentivando o usuário a desacelerar e se reconectar consigo mesmo.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4c290d58-de2a-4f00-9c10-9349884f87bc) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🍇 Experiência
 
-**Use your preferred IDE**
+A jornada é guiada por 9 princípios de desenvolvimento pessoal:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 🌿 Amor  
+- 😊 Alegria  
+- 🕊️ Paz  
+- ⏳ Paciência  
+- 🤝 Amabilidade  
+- 💛 Bondade  
+- 💪 Fidelidade  
+- 🌸 Mansidão  
+- ⚖️ Autocontrole  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Cada um deles convida à reflexão sobre emoções, atitudes e escolhas no dia a dia.
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📲 Experiência digital
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+A experiência continua em uma aplicação web desenvolvida em **React + Vite**, acessada via QR Code na embalagem.
 
-# Step 3: Install the necessary dependencies.
-npm i
+A plataforma oferece:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- Conteúdos reflexivos sobre os princípios  
+- Mensagens inspiracionais  
+- Espaço de feedback da experiência   
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🎯 Objetivo
 
-**Use GitHub Codespaces**
+Este projeto foi desenvolvido como estudo de:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- UX com foco em experiência emocional 🧠  
+- Design de interação e narrativa digital 🌿  
+- Criação de experiências significativas 📲  
+- Tecnologia aplicada ao bem-estar ✨  
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 💡 Tecnologias utilizadas
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- React ⚛️  
+- Vite ⚡  
+- TypeScript 💙  
+- TailwindCSS 🎨  
+- Git 🔧  
+- GitHub 🐙  
+- Vercel 🚀  
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/4c290d58-de2a-4f00-9c10-9349884f87bc) and click on Share -> Publish.
+## 🌟 Conclusão
 
-## Can I connect a custom domain to my Lovable project?
+O **Holy Fruit** explora como design e tecnologia podem ser usados para criar experiências mais humanas e conscientes no cotidiano.
 
-Yes, you can!
+> “Abra, beba e acredite.” 🌿
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
